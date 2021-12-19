@@ -1,4 +1,4 @@
-- 👋 Hi, I’m samir sayyed
+ # Hi, I’m samir sayyed
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning React
 - 💞️ My skills are JavaScript, NodeJs, ExpressJs, MySql, MongoDB
