@@ -1,7 +1,7 @@
  # Hi, I’m samir sayyed
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning React
-- 💞️ My skills are JavaScript, NodeJs, ExpressJs, MySql, MongoDB
+- 👀 I’m interested in backend development
+- 💞️ My skills are Java, SpringBoot, RestApi, Hibernate, Microservices, JavaScript, 
+      HTML, CSS, NodeJs, ExpressJs, MySql, MongoDB
 - 📫 How to reach me - sayyedsamir11@gmail.com
 
 <!---
