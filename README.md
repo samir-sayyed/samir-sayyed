@@ -1,7 +1,8 @@
  # Hi, I’m samir sayyed
 - 👀 I’m interested in backend development
-- 💞️ My skills are Java, SpringBoot, RestApi, Hibernate, Microservices, JavaScript, 
-      HTML, CSS, NodeJs, ExpressJs, MySql, MongoDB
+- 💞️ My skills are Android development, Java, Kotlin, Android SDK, Android Studio, MVVM, Clean
+Architecture, Git, Bitbucket, Problem-solving, Communication skills, Design Patterns, SQLite, XML, Firebase, Unit
+Testing, Appium Testing, ReactJs
 - 📫 How to reach me - sayyedsamir11@gmail.com
 
 <!---
