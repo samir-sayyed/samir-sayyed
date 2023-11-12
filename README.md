@@ -1,8 +1,12 @@
  # Hi, I’m samir sayyed
-- 👀 I’m interested in backend development
-- 💞️ My skills are Android development, Java, Kotlin, Android SDK, Android Studio, MVVM, Clean
-Architecture, Git, Bitbucket, Problem-solving, Communication skills, Design Patterns, SQLite, XML, Firebase, Unit
-Testing, Appium Testing, ReactJs
+**Excelled as an Android Developer for 2 
+years, creating and maintaining top-notch 
+mobile applications for Android devices;
+pursuing an opportunity to utilize
+expertise in Android development 
+frameworks, tools, and technologies such 
+as Java, Kotlin, Android SDK, and Android 
+Studio**
 - 📫 How to reach me - sayyedsamir11@gmail.com
 
 <!---
