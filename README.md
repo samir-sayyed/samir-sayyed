@@ -1,5 +1,5 @@
  # Hi, I’m samir sayyed
-**Excelled as an Android Developer for 2 
+**Excelled as an Android Developer for 4
 years, creating and maintaining top-notch 
 mobile applications for Android devices;
 pursuing an opportunity to utilize
