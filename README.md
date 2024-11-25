@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=devedroy&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=samir-sayyed&icon=0&color=0)](https://visitcount.itsvg.in)
 
  # Hi, I’m samir sayyed
 **Excelled as an Android Developer for 3
